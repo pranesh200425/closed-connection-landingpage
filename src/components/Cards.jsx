@@ -1,5 +1,5 @@
 import React from 'react'
-import Cardleft from './cards/cardleft'
+import Cardleft from './cards/Cardleft'
 import CardRight from './cards/CardRight'
 
 
