@@ -7,7 +7,7 @@ function Header() {
             {/* <span className='text-center md:text-5xl text-[1.35rem] font-bold tracking-widest ' >Welcome to <span className='inline- font-bold
       bg-gradient-to-r from-[#DAB4E5] via-[#F0CA86]  to-[#9AD7A4]
       bg-clip-text text-transparent' id='text-gradient' > Closed-Connections</span></span> */}
-            <span className='flex justify-center mt-8 underline text-center md:text-3xl text-xl md:leading-16 leading-10 ' >
+            <span className='flex justify-center mt-8 sm:text-xl underline text-center md:text-3xl text-[1rem] md:leading-16 leading-10  ' >
                 A corner of internet where <br></br>
                 You don't get ovewhelmed,<br></br> 
                 No micro form content to consume time,<br></br>
