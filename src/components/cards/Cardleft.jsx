@@ -2,7 +2,7 @@ import React from 'react'
 
 function Cardleft() {
   return (
-    <div className='flex flex-col w-[39%] border-2 border-[#DAB4E5] border-dotted rounded-2xl p-2 ml-6 bg-[#e9daeb] ' >
+    <div className='flex flex-col md:w-[39%] w-full border-2 border-[#DAB4E5] border-dotted rounded-2xl p-2 md:ml-6 bg-[#e9daeb] ' >
         <div id="title">
             <h2 className='text-6xl font-semibold bg-[#DAB4E5] w-fit rounded-3xl pt-1 pb-1 pr-2 pl-2' >How?</h2>
         </div>
